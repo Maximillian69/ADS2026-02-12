@@ -1,4 +1,4 @@
-package by.it.group551001.lesson02;
+package by.it.group551001.maxim_belyak.lesson02;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;
